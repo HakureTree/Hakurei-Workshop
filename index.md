@@ -14,7 +14,7 @@
 
 #### [Azqs工具箱](https://codeload.github.com/HakureiTree/Azqs-.exe/zip/refs/heads/main)：云更新服务器工作中！   //*最新版本：1.1.6 (2020.11.6)*
 
-#### [AZFileLocker&Unlocker（加密文件存储容器）](https://codeload.github.com/HakureiTree/AZFileLockerAndUnlocker/zip/refs/heads/main.zip) ： ！ 重要 ！▷基于WinRAR的AES技术制作，使用前请务必安装WinRAR！WinRAR下载地址：[点此跳转](https://www.winrar.com.cn)◁
+#### [AZFileLocker&Unlocker（加密文件存储容器）](https://codeload.github.com/HakureiTree/AZFileLockerAndUnlocker/zip/refs/heads/main) ： ！ 重要 ！▷基于WinRAR的AES技术制作，使用前请务必安装WinRAR！WinRAR下载地址：[点此跳转](https://www.winrar.com.cn)◁
 
 ### 正在开发中的内容
 
