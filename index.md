@@ -18,9 +18,7 @@
 
 #### [AZFileLocker&Unlocker（加密文件存储容器）](https://codeload.github.com/HakureiTree/AZFileLockerAndUnlocker/zip/refs/heads/main) ： ！ 重要 ！▷基于WinRAR制作，使用前请务必安装WinRAR！WinRAR下载地址：[点此跳转](https://www.winrar.com.cn)◁
 
-### 开发中的内容
-
-## 未完成：
+## 开发中的内容： 
 
 #### AZQStool 2   //目前进度：暂停开发   //程序开发进度：00%
 
@@ -30,4 +28,4 @@
 
 ### *于2023/9/10编辑*
 
-###~ *🔧新网页正在筹备🔨*~（搁置）
+### ~ *🔧新网页正在筹备🔨*~ （搁置）
